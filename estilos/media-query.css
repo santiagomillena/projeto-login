@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+/* Typical Device Breakpoints
+------------------------------
+Pequenas telas: até 640px
+Celular: de 641px até 768px
+Tablet: 769px até 992px
+Desktop: 992px até 1200px
+Grandes telas: acima de 1201x
+*/
+
+/* Mobile devices – 320px — 480px
+iPads, Tablets – 481px — 768px
+Small screens, laptops – 769px — 1024px
+Desktops, large screens – 1025px — 1200px
+Extra large screens, TV – 1201px, and more 
+
+You can see the default breakpoints for Bootstrap below:
+
+Breakpoint identifier	Media query	Minimum width breakpoint
+None (default/smallest)	N/A	< 576px
+sm	@media (min-width: 576px)	≥ 576px
+md	@media (min-width: 768px)	≥ 768px
+lg	@media (min-width: 992px)	≥ 992px
+xl	@media (min-width: 1200px)	≥ 1200px
+xxl	@media (min-width: 1400px)	≥ 1400px
+
+Tailwind has five default breakpoints that are inspired by common device resolutions:
+
+Breakpoint identifier	Media query	 Minimum width breakpoint
+None (default/smallest)	N/A	    < 640px
+sm	@media (min-width: 640px)	≥ 640px
+md	@media (min-width: 768px)	≥ 768px
+lg	@media (min-width: 1024px)	≥ 1024px
+xl	@media (min-width: 1280px)	≥ 1280px
+2xl	@media (min-width: 1536px)	≥ 1536px
+
+*/
+
+/* @media (min-width: 768px){
+    ...
+}
+@media (min-width: 1024px){
+    ...
+}
+@media (min-width: 1280){
+    ...
+} */
