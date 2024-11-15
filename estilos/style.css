@@ -87,6 +87,12 @@ div.campo input {
     transform: translateY(-11px);
 }
 
+div.campo > input:focus-within {
+    background-color: rgba(216, 255, 243, 0.64);
+    border: none;
+}
+
+
 input[type=submit] {
     display: block;
     font-size: 1em;
